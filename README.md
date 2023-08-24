@@ -1,4 +1,4 @@
-# Docker example running Selenium with Python 3.10
+# Docker example running Selenium 4.11.2 with Python 3.10
 
 
 
