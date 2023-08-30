@@ -1,6 +1,6 @@
 # Use the official Python image.
 # https://hub.docker.com/_/python
-FROM python:3.10
+FROM python:3.8.18-bullseye
 
 # Install manually all the missing libraries
 RUN apt-get update
